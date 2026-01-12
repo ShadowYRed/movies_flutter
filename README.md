@@ -2,6 +2,7 @@
 
 Aplicación móvil desarrollada en Flutter que muestra un listado de películas consumidas desde una API pública.
 Incluye scroll infinito, búsqueda, vista de detalle, animaciones y gestión de estado.
+Dentro de la carpeta APK podran encontrar la APK para instalarla en un dispositivo Android.
 
 ## Requisitos
 
